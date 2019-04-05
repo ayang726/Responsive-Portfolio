@@ -205,6 +205,9 @@ p, a, form{
 	content: 'Work in Progress';
 }
 
+.portfolio-item:hover #word-guessing-game .project-desc::after {
+	content: 'W/ Nostalgic Music';
+}
 /* Contact Body Style */
 #contact {
 	width: 90%;
